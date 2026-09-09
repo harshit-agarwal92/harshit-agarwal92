@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Harshit</h1>
 
-<!--
-**harshit-agarwal92/harshit-agarwal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Engineer • 🧠 Problem Solver • 🚀 DSA Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<i>Building skills one problem at a time.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+I'm an engineer focused on improving my problem-solving skills
+and learning software development.
+<br><br>
+Currently working with Java, Data Structures & Algorithms, and SQL.
+</p>
+
+---
+
+<h2 align="center">⚡ Tech & Skills</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">🧩 DSA Focus</h2>
+
+<p align="center">
+Sliding Window • Two Pointers • Binary Search • Hashing
+<br>
+Trees • Graphs • Dynamic Programming
+</p>
+
+---
+
+<h2 align="center">🎯 My Approach</h2>
+
+<p align="center">
+<b>Understand → Solve → Optimize → Repeat 🔁</b>
+</p>
+
+<p align="center">
+<i>"Consistency beats intensity."</i>
+</p>
+
+---
+
+<h3 align="center">⭐ Keep learning. Keep improving.</h3>
