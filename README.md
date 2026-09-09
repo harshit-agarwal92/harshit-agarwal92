@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hello! I'm Harshit
+<h1>⚡ Hey, I'm Harshit</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineer+%7C+Problem+Solver;DSA+Learner+%7C+Java+Developer;Learning+Something+New+Every+Day;Understand+%E2%86%92+Solve+%E2%86%92+Optimize&font=Fira+Code&center=true&width=600&height=50&color=F75C7E&vCenter=true&pause=1000&size=22" />
-</a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineer+%7C+Problem+Solver;DSA+Learner+%7C+Java+Developer;Learning+Something+New+Every+Day;Understand+%E2%86%92+Solve+%E2%86%92+Optimize+%E2%86%92+Repeat&font=Fira+Code&center=true&width=600&height=50&color=F75C7E&vCenter=true&pause=1000&size=20" />
+</p>
 
 </div>
 
@@ -83,7 +83,7 @@ writing clean solutions, and continuously improving my approach.
 
 ## 🎯 My Approach
 
-### Understand → Solve → Optimize → Repeat 🔁
+<h3>Understand → Solve → Optimize → Repeat 🔁</h3>
 
 <i>
 I believe in understanding the pattern behind a problem
@@ -104,6 +104,7 @@ rather than simply memorizing the solution.
 
 <p>
 Consistently practicing Data Structures & Algorithms
+<br>
 and improving problem-solving skills one problem at a time.
 </p>
 
@@ -115,7 +116,7 @@ and improving problem-solving skills one problem at a time.
 
 > 💡 **"Consistency beats intensity."**
 
-<br>
+<br><br>
 
 ⭐ **Keep solving. Keep learning. Keep improving.**
 
