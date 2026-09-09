@@ -1,8 +1,13 @@
 <div align="center">
 
-<h1>⚡ Hey, I'm Harshit</h1>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hello!%20I'm%20Harshit&fontSize=60&fontColor=F75C7E&fontFamily=Pacifico&fontAlign=50&fontAlignY=55&animation=fadeIn"
+    alt="Hello! I'm Harshit"
+  />
+</p>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineer+%7C+Problem+Solver;DSA+Learner+%7C+Java+Developer;Learning+Something+New+Every+Day;Understand+%E2%86%92+Solve+%E2%86%92+Optimize+%E2%86%92+Repeat&font=Fira+Code&center=true&width=600&height=50&color=F75C7E&vCenter=true&pause=1000&size=20" />
 </p>
 
@@ -57,7 +62,9 @@ writing clean solutions, and continuously improving my approach.
 <img src="https://img.shields.io/badge/Two%20Pointers-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Binary%20Search-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hashing-111111?style=flat-square"/>
+
 <br>
+
 <img src="https://img.shields.io/badge/Stack%20%26%20Queue-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Trees-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Graphs-111111?style=flat-square"/>
@@ -72,7 +79,10 @@ writing clean solutions, and continuously improving my approach.
 ## 📊 GitHub Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=harshit-agarwal92&theme=radical&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=harshit-agarwal92&theme=radical&hide_border=true"
+    alt="Harshit's GitHub Streak"
+  />
 </p>
 
 </div>
@@ -85,10 +95,12 @@ writing clean solutions, and continuously improving my approach.
 
 <h3>Understand → Solve → Optimize → Repeat 🔁</h3>
 
+<p>
 <i>
 I believe in understanding the pattern behind a problem
 rather than simply memorizing the solution.
 </i>
+</p>
 
 </div>
 
@@ -99,7 +111,10 @@ rather than simply memorizing the solution.
 ## 🧠 Problem Solving
 
 <p>
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode"
+  />
 </p>
 
 <p>
@@ -118,6 +133,6 @@ and improving problem-solving skills one problem at a time.
 
 <br><br>
 
-⭐ **Keep solving. Keep learning. Keep improving.**
+⭐ **Keep learning. Keep improving.**
 
 </div>
